@@ -177,10 +177,9 @@ Add custom collection posters that appear in beautiful activity logs - Show off 
 ## 🎭 Collection Examples to Get You Started
 
 **Must-Have Lists to Try:**
-- `https://mdblist.com/lists/hdlists/top-250-highest-rated-movies-of-all-time`
-- `https://mdblist.com/lists/linaspurinis/imdb-top-250`
-- `https://mdblist.com/lists/garycrawfordgc/marvel-cinematic-universe`
-- `https://mdblist.com/lists/usergcg/dc-extended-universe`
+- `https://mdblist.com/lists/garycrawfordgc/top-movies-of-the-week`
+- `https://mdblist.com/lists/linaspurinis/imdb-moviemeter-top-100`
+- `https://mdblist.com/lists/linaspurinis/pixar-movies`
 - Your own personal lists! (Yes, it works with those too!)
 
 ---
