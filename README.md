@@ -231,7 +231,6 @@ Made with 🍿 by developers who have WAY too many movies
 ![new_collection.png](new_collection.png)
 ### Collection activity log:
 ![logs_1.png](logs_1.png)
-![logs_2.png](logs_2.png)
 
 ---
 
